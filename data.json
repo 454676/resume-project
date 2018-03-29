@@ -1,0 +1,35 @@
+{
+  "basics":{
+    "photo":"profile.jpg",
+    "name":"chaand",
+    "email":"pillaisaiveena1995@gmail.com",
+    "mobile":"1234567890",
+    "address":"chittor"
+
+  },
+  "career":{
+  "info":"To ensue a highly profitable career, seeking for a challenging job and healthy work environment where I can utilize my skills, experience and knowledge efficiently for organizational goal"
+},
+"education":[
+{
+  "course":"MCA",
+  "college":"SVPCET,puttur",
+  "data":["2016-2019","85%"]
+},
+{
+"course":"bsc[MECs]",
+"college":"SSDC,NAGARI",
+"data":["2013-2016","88%"]
+},
+{
+"course":"MPC",
+"college":"SSJC,NAGARI",
+"data":["2011-2013","90%"]
+},
+{
+  "course":"SSC",
+  "college":"VASISHTA.NAGARI",
+  "data":["2011","85%"]
+}
+]
+}
